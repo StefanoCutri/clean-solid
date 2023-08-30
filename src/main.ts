@@ -1,4 +1,5 @@
 import './style.css'
+import './clean-solid/02-homework'
 
 const app = document.querySelector<HTMLDivElement>('#app')!
 
